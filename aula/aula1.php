@@ -31,6 +31,9 @@ function basico() {
         var_dump("<li>$ocupacao</li>"); // Mostra o tipo e valor da variável
     }
     echo "</ul>";
+
+    $var1 = "Teste"
+    $var2 = $var1
 }
 basico();
 

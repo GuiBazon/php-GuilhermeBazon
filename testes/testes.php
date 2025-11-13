@@ -1,6 +1,6 @@
 <?php
-}
 
-// Run the test
-testAddition();
-echo "All tests completed!\n";
+$cor = "Azul";
+$outra = "cor";
+
+echo $$outra;
