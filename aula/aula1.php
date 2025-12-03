@@ -1,12 +1,11 @@
 <?php
-// ========================================
+
 // AULA DE PHP - BÁSICO
 // Autor: Guilherme Bazon
-// ========================================
 
-// ----------------------------
+
 // 1. VARIÁVEIS E TIPOS
-// ----------------------------
+
 function basico() {
     echo "<h2>1. Variáveis e Tipos</h2><hr>";
 
@@ -38,9 +37,9 @@ function basico() {
 basico();
 
 
-// ----------------------------
+
 // 2. OPERAÇÕES MATEMÁTICAS
-// ----------------------------
+
 function operacoes() {
     echo "<h2>2. Operações Matemáticas</h2><hr>";
 
@@ -62,9 +61,9 @@ function operacoes() {
 operacoes();
 
 
-// ----------------------------
+
 // 3. ESTRUTURAS CONDICIONAIS
-// ----------------------------
+
 function condicional() {
     echo "<h2>3. Estruturas Condicionais</h2><hr>";
 
@@ -98,9 +97,9 @@ function condicional() {
 condicional();
 
 
-// ----------------------------
+
 // 4. ESTRUTURAS DE REPETIÇÃO
-// ----------------------------
+
 function loop() {
     echo "<h2>4. Estruturas de Repetição</h2><hr>";
 
@@ -131,9 +130,9 @@ function loop() {
 loop();
 
 
-// ----------------------------
+
 // 5. RESUMO FINAL
-// ----------------------------
+
 echo "<hr><h2>Resumo</h2>";
 echo "<p>Nessa aula vimos:</p>";
 echo "<ul>
