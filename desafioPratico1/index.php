@@ -19,7 +19,7 @@ $usuarios = $sql->fetchAll(PDO::FETCH_ASSOC);
         <a href="create.php">Adicionar Novo Usuário</a>
         <br><br>
 
-        <table border="1" width="100%">
+        <table width="100%">
             <tr>
                 <th>ID</th>
                 <th>Nome</th>
